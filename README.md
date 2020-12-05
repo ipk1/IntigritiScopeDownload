@@ -13,7 +13,8 @@ ipscope.txt has all the ipv4 cidr scope
 intiscope.txt has all the urls 
 
 usage:
-bash ISD.sh <<token>>
+
+bash ISD.sh <<token_here>>
 
 get toke by typing " localStorage.getItem('researcher_token');" in the console
 
